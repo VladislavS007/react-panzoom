@@ -1,5 +1,5 @@
 {
-  "name": "@sasza/react-panzoom",
+  "name": "react-panzoom-vlad",
   "version": "1.18.0",
   "description": "React component for pan and zoom with possibility to moving, resizing and selecting elements inside",
   "main": "dist/main.umd.cjs",
@@ -76,6 +76,6 @@
     "react": ">=16.14.0"
   },
   "dependencies": {
-    "panzoom-core": "git+https://github.com/VladislavS007/panzoom-core.git"
+    "panzoom-core-vlad": "1.8.0"
   }
 }

@@ -12,9 +12,10 @@
     "outDir": "./dist/",
     "paths": {
       "@/*": ["src/*"],
-      "types": ["types/types"]
+      "types": ["types/types"],
+      "panzoom-core": ["node_modules/panzoom-core-vlad"]
     },
     "rootDirs": ["src", "types"],
-    "target": "es5"
+    "target": "es5",
   }
 }
